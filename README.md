@@ -37,7 +37,7 @@ Make sure you have **Node.js**, **MongoDB**, and **npm** installed.
 ### Steps to Run the Project
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/goyal1510/jayant-ecommerce-website.git
+git clone https://github.com/goyal1510/komal-ecommerce-website.git
 cd komal-ecommerce-website
 ```
 
@@ -56,10 +56,9 @@ npm install
 #### 3. Configure Environment Variables
 Create a `.env` file in the `backend` directory and add the following:
 ```
-DB_URL = "mongodb+srv://admin:jpncqTcjg4CeSQA5@jayant-ecommerce.pldzn.mongodb.net/jayant?retryWrites=true&w=majority&appName=jayant-ecommerce"
+DB_URL = "mongodb+srv://admin:jpncqTcjg4CeSQA5@jayant-ecommerce.pldzn.mongodb.net/komal?retryWrites=true&w=majority&appName=jayant-ecommerce"
 PORT = 5000
-JWT_SECRET = "himynameisjayant"
-FRONTEND_URL = "http://localhost:5173"
+FR
 ```
 
 #### 4. Run the Application
@@ -79,7 +78,7 @@ npm start
 ![Home Page](./Screenshots/Homepage.png)
 
 ## Deployment
-🔗 Live Demo: [Jayant E-Commerce](https://jayant-ecommerce-website.vercel.app/)
+🔗 Live Demo: [Jayant E-Commerce](https://komal-ecommerce-website.vercel.app/)
 
 ## Contribution
 Feel free to fork this repository and contribute to the project. Open an issue or submit a pull request with improvements.

@@ -78,7 +78,7 @@ npm start
 ![Home Page](./Screenshots/Homepage.png)
 
 ## Deployment
-🔗 Live Demo: [komal E-Commerce](https://komal-ecommerce-website.vercel.app/)
+🔗 Live Demo: [komal E-Commerce](https://ecommerce-website-r4vs.vercel.app/)
 
 ## Contribution
 Feel free to fork this repository and contribute to the project. Open an issue or submit a pull request with improvements.

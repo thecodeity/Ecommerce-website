@@ -56,7 +56,7 @@ npm install
 #### 3. Configure Environment Variables
 Create a `.env` file in the `backend` directory and add the following:
 ```
-DB_URL = "mongodb+srv://admin:jpncqTcjg4CeSQA5@jayant-ecommerce.pldzn.mongodb.net/komal?retryWrites=true&w=majority&appName=jayant-ecommerce"
+DB_URL = "mongodb+srv://admin:jpncqTcjg4CeSQA5@komal-ecommerce.pldzn.mongodb.net/komal?retryWrites=true&w=majority&appName=komal-ecommerce"
 PORT = 5000
 FR
 ```

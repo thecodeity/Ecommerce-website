@@ -37,7 +37,7 @@ Make sure you have **Node.js**, **MongoDB**, and **npm** installed.
 ### Steps to Run the Project
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/goyal1510/komal-ecommerce-website.git
+git clone https://github.com/thecodeity/Ecommerce-website?tab=readme-ov-file
 cd komal-ecommerce-website
 ```
 
@@ -78,7 +78,7 @@ npm start
 ![Home Page](./Screenshots/Homepage.png)
 
 ## Deployment
-🔗 Live Demo: [Jayant E-Commerce](https://komal-ecommerce-website.vercel.app/)
+🔗 Live Demo: [komal E-Commerce](https://komal-ecommerce-website.vercel.app/)
 
 ## Contribution
 Feel free to fork this repository and contribute to the project. Open an issue or submit a pull request with improvements.
